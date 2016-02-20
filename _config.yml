@@ -1,0 +1,28 @@
+name: N4
+favicon: null
+layout_spectrum: 0.6602918431162834
+typography_spectrum: 0.5409025528933853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9320275359787047
+  lightness: 0.9905456609558314
+  saturation: 0.38908286252990365
+  rhythmicContrast: 0.7267909415531904
+purpose: []
